@@ -203,7 +203,7 @@ final Node<K,V> getNode(int hash, Object key) {
 
 ##### HashMap 为什么要加入红黑树？
 
-当HashMap中链表长度>8时候，会自动转化为红黑树，HashMap的Hash值范围是-2147483648到2147483648，约40亿个数据。当正常散列时候回分布均匀。如果链表过长，则一定是HashCode函数为写完美，重写equals方法的时候一定要重写HashCode方法（二个对象相等，则他们Hashcode一定相同；二个对象hashcode相等，他们不一定是一个对象）。hashCode其实就是一个浅层的判断对象是否相等，比较大量数据是否相等时候，只用比较Hashcode相同的对象。加入红黑树的目的是为了在错误使用的情况下（HashCode方法未重写，或者重写失败），任然能够保持HashMap的性能的考虑。
+当HashMap中链表长度>8时候，会自动转化为红黑树，HashMap的Hash值范围是-2147483648到2147483648，约40亿个数据。当正常散列时候回分布均匀。如果链表过长，则一定是HashCode函数为写完美，重写equals方法的时候一定要重写HashCode方法（二个对象相等，则他们Hashcode一定相同；二个对象hashcode相等，他们不一定是一个对象）。hashCode其实就是一个浅层的判断对象是否相等，比较大量数据是否相等时候，只用比较Hashcode相同的对象。加入红黑树的目的是为了在错误使用的情况下（HashCode方法未重写，或者重写失败），仍然能够保持HashMap的性能的考虑。
 
 ##### 多线程环境下使用HashMap
 
