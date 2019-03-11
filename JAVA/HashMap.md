@@ -7,7 +7,7 @@ HashMap是Java程序员必须掌握的知识点，也是面试中的常考点。
 
 ##### HashMap的数据结构
 HashMap 就是通过数组+链表数据结构进行实现。HashMap实际上是一个“链表散列”的数据结构，即数组和链表的结合体。
-[](photo/1.jpg)
+![hashmap数据结构](photo/1.jpg)
 
 通过 JDK 中的 HashMap 源码进行一些学习，首先看一下构造函数：
 ```
