@@ -23,7 +23,7 @@
 ### ARTS:
 
 [ARTS 01](https://www.jianshu.com/p/e4f38376c8a6)  
-[ARTS 02(https://www.jianshu.com/p/ba0a6ab47767)
+[ARTS 02](https://www.jianshu.com/p/ba0a6ab47767)  
 [ARTS 03](https://www.jianshu.com/p/dc745e518895)  
 [ARTS 04](https://www.jianshu.com/p/7cc5924b2b26)  
 [ARTS 05](https://www.jianshu.com/p/b560e87750ef)  
