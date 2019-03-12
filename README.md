@@ -38,3 +38,15 @@
 [ARTS 05](https://www.jianshu.com/p/b560e87750ef)  
 [ARTS 06](https://www.jianshu.com/p/f30a06bb924c)  
 [ARTS 07](https://www.jianshu.com/p/cb74d3f1ff82)  
+
+### Java路上看过的书
+
+深入理解Java虚拟机：JVM高级特性与最佳实践（第2版） - 周志明
+
+Java并发编程的艺术-方腾飞,魏鹏,程晓明
+
+Java性能权威指南
+
+MySQL技术内幕：InnoDB存储引擎(第2版) (数据库技术丛书) - 姜承尧
+
+高性能MySql(第三版)
