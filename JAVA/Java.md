@@ -5,7 +5,7 @@
 接口和抽象类区别？   常问  
 Java中常用的集合？ 知道一些常用的就行咯
 Java中单列模式？ 只少必须会写双重检查模式 
-
+面试常问你是怎么学习的，平常看什么书，常看的网站什么的？
 #### Java多线程:
 [互联网校招面试必备——Java多线程](https://www.weiweiblog.cn/thread/)  
 [Java并发多线程面试题 Top 50](https://blog.csdn.net/moneyshi/article/details/50512240)  
