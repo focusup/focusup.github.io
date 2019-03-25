@@ -6,9 +6,6 @@
 Java中常用的集合？ 知道一些常用的就行咯
 Java中单列模式？ 只少必须会写双重检查模式 
 
-
-
-
 #### Java多线程:
 [互联网校招面试必备——Java多线程](https://www.weiweiblog.cn/thread/)  
 [Java并发多线程面试题 Top 50](https://blog.csdn.net/moneyshi/article/details/50512240)  
@@ -36,10 +33,7 @@ HashMap为面试必问，需要说出jdk1.7和1.8的区别，清除其中的put�
 HashMap中会牵引出这个，回答出肯定很多加分的，建议深入源码  
 11.[TheadLocal解析](https://github.com/focusup/focusup.github.io/blob/master/JAVA/TheadLocal%E8%A7%A3%E6%9E%90.md)
 很高概率会问的  
-  
-
-
-
+   
 #### 计算机网络：
 [计算机网络相关](https://www.weiweiblog.cn/network/)   
 简短计算机网络方面总结，很有用
@@ -66,7 +60,7 @@ JVM必须知道JAVA的内存模型，以及常见的垃圾收集器
 入门视频：
 链接: https://pan.baidu.com/s/1HMiWQgohihqnIHe4x4X-pg 提取码: bx4q
 
-建议把《深入理解Java虚拟机》看了
+建议把《深入理解Java虚拟机》看了[下载地址](https://github.com/focusup/focusup.github.io/tree/master/JAVA/book)
 
 #### 编程题：  
 [ 牛客网 剑指Offer](https://www.jianshu.com/p/dc18f48a8e8c) 
